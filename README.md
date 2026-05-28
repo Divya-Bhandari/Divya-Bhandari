@@ -1,95 +1,104 @@
-<h1 align="center">Hi 👋, I'm Divya Bhandari</h1>
+<!-- Header with animated typing effect -->
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=6366F1&center=true&vCenter=true&width=940&lines=Hi+👋,+I'm+Divya+Bhandari;Frontend+Developer+%7C+UI%2FUX+Designer;Building+Modern+Web+Experiences;Clean+Design+%26+Smooth+User+Experience" />
+</div>
 
-<h3 align="center">
-Frontend Developer • UI/UX Designer
-</h3>
-
-<p align="center">
-Building modern, scalable, and user-friendly digital experiences with clean code and creative design.
-</p>
-
----
-
-<p align="center">
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=26&pause=1000&color=7C3AED&center=true&vCenter=true&width=900&lines=Frontend+Developer;UI%2FUX+Designer" />
-
-</p>
+<!-- Professional Banner -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,20&height=200&section=header&text=Welcome%20to%20My%20Portfolio&fontSize=40&fontColor=fff&animation=fadeIn&fontAlignY=35" width="100%"/>
+</div>
 
 ---
 
-# 🌟 About Me
-
-- 💻 Frontend Developer focused on modern web interfaces  
-- 🎨 UI/UX Designer passionate about clean and minimal design  
-- 📱 Build responsive and user-friendly layouts  
-- 🚀 Focused on performance, usability, and accessibility  
-- 🧠 Currently improving React & design systems  
-
----
-
-# ⚡ Tech Stack
-
-## 🎨 Frontend
-HTML • CSS • JavaScript • React • Tailwind
-
-## 🎨 UI/UX Tools
-Figma • Canva • Design Systems • Prototyping
-
-## 🛠 Tools
-Git • GitHub • VS Code • Postman
-
----
-
-# 💡 What I Do
-
-- Design modern UI layouts  
-- Build responsive frontend applications  
-- Convert UI designs into code  
-- Improve user experience & accessibility  
-
----
-
-# 🎯 Goals
-
-- Master advanced React  
-- Improve UI/UX design skills  
-- Build portfolio-grade projects  
-- Contribute to open source  
-
----
-
-# 📊 GitHub Analytics
+## 🌟 About Me
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Divya-Bhandari&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" />
-
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Divya-Bhandari&theme=tokyonight&hide_border=true&background=0D1117" />
+- 💻 Frontend Developer focused on modern web interfaces  
+- 🎨 UI/UX Designer passionate about clean & minimal design  
+- 📱 Building responsive and user-friendly applications  
+- ⚡ Focused on performance, usability & accessibility  
+- 🧠 Currently improving React & design systems  
 
 </div>
 
 ---
 
-# 📈 Contribution Graph
+## ⚡ Tech Stack
 
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Divya-Bhandari&theme=tokyo-night&hide_border=true&bg_color=0D1117" width="100%"/>
-</p>
+<div align="center">
+
+### 🎨 Frontend
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Tailwind](https://img.shields.io/badge/Tailwind-38B2AC?style=for-the-badge&logo=tailwindcss&logoColor=white)
+
+### 🎨 UI/UX Tools
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
+
+### 🛠 Tools
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
+</div>
 
 ---
 
-# 🏆 GitHub Trophies
+## 💡 What I Do
 
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=Divya-Bhandari&theme=tokyonight&no-frame=true&row=1&column=7"/>
-</p>
+<div align="center">
+
+- 🎯 Design modern UI layouts  
+- 💻 Build responsive frontend applications  
+- 🔄 Convert UI designs into real code  
+- ⚡ Improve UX & accessibility  
+- 🚀 Create clean and scalable interfaces  
+
+</div>
 
 ---
 
-# 🌐 Connect With Me
+## 🎯 Goals
 
-<p align="center">
+<div align="center">
+
+- Master advanced React ecosystem  
+- Improve UI/UX design skills  
+- Build portfolio-level projects  
+- Contribute to open source  
+- Create a strong personal brand  
+
+</div>
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=Divya-Bhandari&show_icons=true&theme=tokyonight&hide_border=true" />
+
+<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Divya-Bhandari&theme=tokyonight&hide_border=true" />
+
+</div>
+
+---
+
+## 📈 Activity Graph
+
+<div align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Divya-Bhandari&theme=tokyo-night&hide_border=true" width="100%"/>
+</div>
+
+---
+
+## 🌐 Connect With Me
+
+<div align="center">
 
 <a href="https://linkedin.com">
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
@@ -103,22 +112,22 @@ Git • GitHub • VS Code • Postman
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-</p>
+</div>
 
 ---
 
+## 👀 Profile Views
 
-# 👀 Profile Views
+<div align="center">
 
-<p align="center">
+<img src="https://komarev.com/ghpvc/?username=Divya-Bhandari&color=6366F1&style=for-the-badge" />
 
-<img src="https://komarev.com/ghpvc/?username=Divya-Bhandari&label=Profile%20Views&color=7C3AED&style=for-the-badge" />
-
-</p>
+</div>
 
 ---
 
+<div align="center">
 
-<p align="center">
-✨ Thanks for visiting my profile ✨
-</p>
+### ✨ Thanks for visiting my profile ✨
+
+</div>
