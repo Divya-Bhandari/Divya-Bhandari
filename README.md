@@ -1,7 +1,9 @@
 <!-- HERO SECTION (UPDATED - CLEAN UI/UX STYLE) -->
 <div align="left">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:EC4899,100:8B5CF6&height=160&section=header&text=Divya%20Bhandari&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlign=25" width="100%"/>
+<h1 align="left" style="font-size:42px; font-weight:800; color:#1f2937; text-shadow:2px 2px 8px rgba(0,0,0,0.12); letter-spacing:1px;">
+  Divya Bhandari
+</h1>
 
 <br>
 
