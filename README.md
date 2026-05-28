@@ -1,10 +1,11 @@
 <!-- HERO SECTION (UPDATED - CLEAN UI/UX STYLE) -->
 <div align="left">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:D1EEEA,100:FFFFFF&height=160&section=header&text=Divya%20Bhandari&fontSize=42&fontColor=0F172A&animation=fadeIn&fontAlign=25" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FFFFFF,100:FFFFFF&height=160&section=header&text=Divya%20Bhandari&fontSize=42&fontColor=3F7994&animation=fadeIn&fontAlign=25" width="100%"/>
+
 <br>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=2800&pause=1500&color=6366F1&center=false&vCenter=true&width=900&lines=Frontend+Developer+%7C+UI%2FUX+Designer" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=2800&pause=1500&color=3F7994&center=false&vCenter=true&width=900&lines=Frontend+Developer+%7C+UI%2FUX+Designer" />
 
 <br>
 
