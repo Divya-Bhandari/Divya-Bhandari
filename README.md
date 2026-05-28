@@ -1,9 +1,7 @@
 <!-- HERO SECTION (UPDATED - CLEAN UI/UX STYLE) -->
 <div align="left">
 
-<h1 align="left" style="font-size:42px; font-weight:800; color:#1f2937; text-shadow:2px 2px 8px rgba(0,0,0,0.12); letter-spacing:1px;">
-  Divya Bhandari
-</h1>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:E5E7EB,100:9CA3AF&height=160&section=header&text=Divya%20Bhandari&fontSize=42&fontColor=111827&animation=fadeIn&fontAlign=25" width="100%"/>
 
 <br>
 
@@ -40,24 +38,6 @@ Git • GitHub • VS Code • Postman
 
 ---
 
-# 💡 What I Do
-
-- Design modern UI layouts  
-- Build responsive frontend applications  
-- Convert UI designs into code  
-- Improve user experience & accessibility  
-
----
-
-# 🎯 Goals
-
-- Master advanced React  
-- Improve UI/UX design skills  
-- Build portfolio-grade projects  
-- Contribute to open source  
-
----
-
 # 📊 GitHub Stats
 
 <div align="left">
@@ -86,10 +66,5 @@ Git • GitHub • VS Code • Postman
 
 ---
 
-# 👀 Profile Views
-
-<img src="https://komarev.com/ghpvc/?username=Divya-Bhandari&color=6366F1&style=for-the-badge" />
-
----
 
 ### ✨ Thanks for visiting my profile ✨
