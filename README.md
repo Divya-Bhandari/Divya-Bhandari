@@ -1,16 +1,15 @@
-<!-- Header with animated typing effect -->
+<!-- HERO SECTION (UPDATED - CLEAN UI/UX STYLE) -->
 <div align="left">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=2800&pause=2000&color=6366F1&center=false&vCenter=true&width=900&lines=Hi+👋,+I'm+Divya+Bhandari;Frontend+Developer+%7C+UI%2FUX+Designer;Building+Modern+Web+Interfaces;Clean+Design+%26+Better+User+Experience" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,20&height=160&section=header&text=Divya%20Bhandari&fontSize=42&fontColor=fff&animation=fadeIn&fontAlign=25" width="100%"/>
 
-</div>
+<br>
 
----
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=2800&pause=1500&color=6366F1&center=false&vCenter=true&width=900&lines=Frontend+Developer+%7C+UI%2FUX+Designer;Building+Clean+%26+Modern+Web+Interfaces;Focused+on+User+Experience+%26+Design;Turning+Ideas+into+Interactive+Products" />
 
-<!-- Banner -->
-<div align="left">
+<br>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,20&height=180&section=header&text=Divya%20Bhandari&fontSize=40&fontColor=fff&animation=fadeIn&fontAlign=30" width="100%"/>
+### 💡 Crafting simple, modern and user-friendly digital experiences with clean design and better UX.
 
 </div>
 
