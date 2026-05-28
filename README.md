@@ -12,7 +12,7 @@ Building modern, scalable, and user-friendly digital experiences with clean code
 
 <p align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=26&pause=1000&color=7C3AED&center=true&vCenter=true&width=900&lines=Frontend+Developer;UI%2FUX+Designer;Full+Stack+Web+Developer;Building+Modern+Digital+Experiences" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=26&pause=1000&color=7C3AED&center=true&vCenter=true&width=900&lines=Frontend+Developer;UI%2FUX+Designer" />
 
 </p>
 
