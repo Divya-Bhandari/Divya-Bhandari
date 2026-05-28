@@ -1,13 +1,21 @@
-<!-- HERO SECTION (UPDATED - CLEAN UI/UX STYLE) -->
-<div align="left">
+<!-- HERO SECTION -->
+<div align="left" style="padding:20px 0;">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:E5E7EB,100:9CA3AF&height=160&section=header&text=Divya%20Bhandari&fontSize=42&fontColor=111827&animation=fadeIn&fontAlign=25" width="100%"/>
+<h1 style="font-size:46px; font-weight:800; color:#0F766E; margin:0; letter-spacing:1px;">
+  Divya Bhandari
+</h1>
 
-<br>
+<p style="font-size:20px; color:#14B8A6; margin-top:8px; font-weight:500;">
+Frontend Developer • UI/UX Designer
+</p>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=2800&pause=1500&color=6366F1&center=false&vCenter=true&width=900&lines=Frontend+Developer+%7C+UI%2FUX+Designer" />
+<p style="font-size:16px; color:#6B7280; margin-top:10px; max-width:700px; line-height:1.6;">
+I design and build clean, responsive, and user-focused digital experiences with a strong focus on usability, performance, and modern UI systems.
+</p>
 
-<br>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=2500&pause=1200&color=14B8A6&center=false&vCenter=true&width=800&lines=Frontend+Development;UI%2FUX+Design;React+%7C+Tailwind+%7C+JavaScript;Building+clean+and+modern+interfaces" />
+
+</div>
 
 ### 💡 Crafting simple, modern and user-friendly digital experiences with clean design and better UX.
 
