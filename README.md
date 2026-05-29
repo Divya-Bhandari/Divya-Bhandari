@@ -29,27 +29,15 @@
 
 <div align="left">
 
-## 🎨 Frontend
-
-<img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind" />
+<img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,figma,git,github,vscode,postman" />
 
 <br><br>
-
-## 🎨 UI/UX Tools
-
-<img src="https://skillicons.dev/icons?i=figma" />
 
 <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=Canva&logoColor=white" />
 
 <img src="https://img.shields.io/badge/Design%20Systems-111827?style=for-the-badge&logo=storybook&logoColor=white" />
 
 <img src="https://img.shields.io/badge/Prototyping-3F7994?style=for-the-badge&logo=adobexd&logoColor=white" />
-
-<br><br>
-
-## 🛠 Tools
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman" />
 
 </div>
 
