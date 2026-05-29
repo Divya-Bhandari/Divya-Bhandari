@@ -65,9 +65,9 @@
 
 # 🌐 Connect With Me
 
-- 📧 Email: your-email@gmail.com  
-- 💼 LinkedIn: https://linkedin.com  
-- 🐙 GitHub: https://github.com/Divya-Bhandari  
+- 📧 Email: divyaa7u@gmail.com  
+- 💼 LinkedIn: :contentReference[oaicite:0]{index=0}  
+- 🌐 Portfolio: :contentReference[oaicite:1]{index=1}  
 
 ---
 
