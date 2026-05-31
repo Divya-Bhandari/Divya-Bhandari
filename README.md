@@ -9,13 +9,13 @@
 
 <br>
 
-### 💡 Crafting simple, modern and user-friendly digital experiences with clean design and better UX.
-
 </div>
 
 ---
 
 # 🌟 About Me
+
+I enjoy creating clean, modern, and user-friendly digital experiences through frontend development and UI/UX design.
 
 - 💻 Frontend Developer focused on modern web interfaces  
 - 🎨 UI/UX Designer passionate about clean and minimal design  
