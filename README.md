@@ -67,7 +67,8 @@ I enjoy creating clean, modern, and user-friendly digital experiences through fr
 
 - 📧 Email: divyaa7u@gmail.com  
 - 💼 LinkedIn: [Divya Bhandari](https://www.linkedin.com/in/divya-bhandari-24a2323b9/)  
-- 🌐 Portfolio: [GitHub Portfolio](https://github.com/Divya-Bhandari)
+- 🌐 Portfolio: [GitHub Portfolio](https://github.com/Divya-Bhandari)  
+- 🚀 Personal Portfolio: [View Live Portfolio Repository](https://github.com/Divya-Bhandari/Personal-Portfolio)
 
 ---
 
