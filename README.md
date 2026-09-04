@@ -1,4 +1,5 @@
 <!-- HERO SECTION (UPDATED - CLEAN UI/UX STYLE) -->
+
 <div align="left">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FFFFFF,100:FFFFFF&height=160&section=header&text=Divya%20Bhandari&fontSize=42&fontColor=3F7994&animation=fadeIn&fontAlign=25" width="100%"/>
@@ -17,11 +18,11 @@
 
 I enjoy creating clean, modern, and user-friendly digital experiences through frontend development and UI/UX design.
 
-- 💻 Frontend Developer focused on modern web interfaces  
-- 🎨 UI/UX Designer passionate about clean and minimal design  
-- 📱 Build responsive and user-friendly layouts  
-- ⚡ Focused on performance, usability, and accessibility  
-- 🧠 Improving React & UI/UX systems  
+* 💻 Frontend Developer focused on modern web interfaces
+* 🎨 UI/UX Designer passionate about clean and minimal design
+* 📱 Build responsive and user-friendly layouts
+* ⚡ Focused on performance, usability, and accessibility
+* 🧠 Improving React & UI/UX systems
 
 ---
 
@@ -65,11 +66,10 @@ I enjoy creating clean, modern, and user-friendly digital experiences through fr
 
 # 🌐 Connect With Me
 
-📧 Email: [divyaa7u@gmail.com](mailto:divyaa7u@gmail.com)  
-💼 LinkedIn: [https://www.linkedin.com/in/divya-bhandari-24a2323b9/](https://www.linkedin.com/in/divya-bhandari-24a2323b9/)  
-🌐 Portfolio: [https://github.com/Divya-Bhandari/Personal-Portfolio](https://github.com/Divya-Bhandari/Personal-Portfolio)
+📧 Email: [divyaa7u@gmail.com](mailto:divyaa7u@gmail.com)
+💼 LinkedIn: https://www.linkedin.com/in/divya-bhandari-24a2323b9/
+🌐 Portfolio: https://portfoliodivyabhandari.netlify.app/
 
 ---
-
 
 ### ✨ Thanks for visiting my profile ✨
