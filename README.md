@@ -66,9 +66,12 @@ I enjoy creating clean, modern, and user-friendly digital experiences through fr
 
 # 🌐 Connect With Me
 
-📧 Email: [divyaa7u@gmail.com](mailto:divyaa7u@gmail.com)
-💼 LinkedIn: https://www.linkedin.com/in/divya-bhandari-24a2323b9/
+📧 Email: [divyaa7u@gmail.com](mailto:divyaa7u@gmail.com)<br>
+💼 LinkedIn: https://www.linkedin.com/in/divya-bhandari-24a2323b9/<br>
 🌐 Portfolio: https://portfoliodivyabhandari.netlify.app/
+
+---
+
 
 ---
 
