@@ -48,11 +48,12 @@ I enjoy creating clean, modern, and user-friendly digital experiences through fr
 
 <div align="left">
 
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=Divya-Bhandari&show_icons=true&theme=tokyonight&hide_border=true" />
+<img src="https://github-readme-stats.vercel.app/api?username=Divya-Bhandari&show_icons=true&hide_border=true&title_color=3F7994&icon_color=3F7994&text_color=555555&bg_color=FFFFFF" width="48%" />
 
-<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Divya-Bhandari&theme=tokyonight&hide_border=true" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Divya-Bhandari&hide_border=true&background=FFFFFF&ring=3F7994&fire=3F7994&currStreakLabel=3F7994&sideLabels=555555&dates=888888" width="48%" />
 
 </div>
+
 
 ---
 
